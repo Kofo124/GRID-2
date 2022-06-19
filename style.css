@@ -32,7 +32,7 @@ main div{
 .item-b{
     background-color: yellow;
     grid-area: b;
-    color: orange;
+    color: yellow;
 }
 .item-c{
     background-color: green;
